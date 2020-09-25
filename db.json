@@ -1,4 +1,4 @@
-[
+
   {
     "id" : 0,
     "name" : "Mario Villa",
@@ -9,6 +9,6 @@
     "id" : 1,
     "name" : "Mario Castro",
     "username" : "El Popeye",
-   "email" : "marioc@gmail.com"
+    "email" : "marioc@gmail.com"
   }
-]
+
