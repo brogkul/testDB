@@ -1,4 +1,6 @@
-[
+{
+"users":
+[  
   {
     "id" : 0,
     "name" : "Mario Villa",
@@ -12,3 +14,4 @@
     "email" : "marioc@gmail.com"
   }
 ]
+}
