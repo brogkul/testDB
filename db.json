@@ -10,8 +10,116 @@
   {
     "id" : 1,
     "name" : "Mario Castro",
-    "username" : "El Popeye",
+    "username" : "Popeye",
     "email" : "marioc@gmail.com"
+  },
+  {
+    "id" : 2,
+    "name" : "David Arzabe",
+    "username" : "Dace",
+    "email" : "davida@gmail.com"
+  },
+  {
+    "id" : 3,
+    "name" : "Tony Melean",
+    "username" : "The Ell-Tee",
+    "email" : "tonym@gmail.com"
+  },
+  {
+    "id" : 4,
+    "name" : "Pablo Penaloza",
+    "username" : "Big P",
+    "email" : "pablop@gmail.com"
+  },
+  {
+    "id" : 5,
+    "name" : "Angel Fernandez",
+    "username" : "Angelato",
+    "email" : "angelf@gmail.com"
+  },
+  {
+    "id" : 6,
+    "name" : "Pablo Guzman",
+    "username" : "Young Werewolf",
+    "email" : "pablog@gmail.com"
+  },
+  {
+    "id" : 7,
+    "name" : "Victor Bolivar",
+    "username" : "Vicongo",
+    "email" : "victorb@gmail.com"
+  },
+  {
+    "id" : 8,
+    "name" : "Miguel Maldonado",
+    "username" : "Micky McDonald",
+    "email" : "miguelm@gmail.com"
+  },
+  {
+    "id" : 9,
+    "name" : "Alejandro Hayes",
+    "username" : "Lizard King",
+    "email" : "ahayes@gmail.com"
+  },
+  {
+    "id" : 10,
+    "name" : "Alexis Camacho",
+    "username" : "Macho Camacho",
+    "email" : "alexisc@gmail.com"
+  },
+  {
+    "id" : 11,
+    "name" : "Alfonso Aramayo",
+    "username" : "Marraqueta Blindada",
+    "email" : "alfonsoa@gmail.com"
+  },
+  {
+    "id" : 12,
+    "name" : "Carlos Centellas",
+    "username" : "El Abuelo",
+    "email" : "carlosc@gmail.com"
+  },
+  {
+    "id" : 13,
+    "name" : "Carlos Diaz",
+    "username" : "Trini Tron",
+    "email" : "carlosd@gmail.com"
+  },
+  {
+    "id" : 14,
+    "name" : "Ruben Palza",
+    "username" : "Conejo",
+    "email" : "rubenp@gmail.com"
+  },
+  {
+    "id" : 15,
+    "name" : "Steven Saenz",
+    "username" : "Chiki Dracula",
+    "email" : "stevens@gmail.com"
+  },
+  {
+    "id" : 16,
+    "name" : "Daniel Vargas",
+    "username" : "ChafiBoy",
+    "email" : "danielv@gmail.com"
+  },
+  {
+    "id" : 17,
+    "name" : "Paul Paniagua",
+    "username" : "Chiken",
+    "email" : "paulp@gmail.com"
+  },
+  {
+    "id" : 18,
+    "name" : "Franz Ballivian",
+    "username" : "El Michelin",
+    "email" : "franzb@gmail.com"
+  },
+  {
+    "id" : 19,
+    "name" : "Jilson Linares",
+    "username" : "Jay Jay",
+    "email" : "jilsonl@gmail.com"
   }
 ]
 }
